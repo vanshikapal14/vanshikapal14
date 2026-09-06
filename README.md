@@ -1,55 +1,68 @@
-## Hi there 👋
-
 <div align="center">
 
-<!-- Typing header — replace GITHUB_USERNAME query isn't needed, this is just an image embed -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Vanshika+%F0%9F%91%8B;iOS+Developer+%7C+SDE+Aspirant;Swift+%2B+Flutter+%2B+DSA;Apple+Swift+Student+Challenge+2026" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=VANSHIKA%20PAL&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=iOS%20Developer%20%7C%20SDE%20Aspirant%20%7C%20Builder&descAlignY=55&descSize=18" width="100%"/>
 
-<!-- Capsule banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Vanshika&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&width=750&lines=const+dev+%3D+%7B+role%3A+%22iOS+Developer%22+%7D%3B;whoami+%E2%86%92+building+Avello+%F0%9F%A7%98;Swift+%2B+SwiftUI+%2B+SwiftData;Apple+Swift+Student+Challenge+2026+%F0%9F%8F%86" alt="Typing SVG" />
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/-vanshikapal14-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanshikapal14/)
+[![Instagram](https://img.shields.io/badge/-chaaiandtech-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/chaaiandtech)
+![Profile Views](https://komarev.com/ghpvc/?username=vanshikapal14&color=A78BFA&style=flat-square&label=Profile+Views)
 
 </div>
 
-### 🚀 About Me
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:24243e&height=3&width=100%"/>
 
-- 🎓 Forth-year B.Tech CSE student at Galgotias University, Greater Noida
-- 📱 Building for **iOS** (Swift, SwiftUI, SwiftData) and solving real world Problems
-- 🏆 Apple Swift Student Challenge 2026 recipient
-- 💼 Ex-Intern @ Infosys Mysore DC
-- 🎯 Targeting **iOS Developer / SDE** roles in NCR — full-time from 2027
-- 🧩 150+ problems solved on LeetCode, active on CodeChef
-- 🛠️ Currently building **Avello** — a focus & emotional regulation productivity app (pre-seed stage)
+<table width="100%">
+<tr>
+<td width="60%" valign="top">
 
----
+### `console.log("about-me")`
+
+```yaml
+role: iOS Developer / SDE Aspirant
+year: 4th year, B.Tech CSE — Galgotias University
+stack: [Swift, SwiftUI, SwiftData, Flutter, Dart, Java]
+recognition: Apple Swift Student Challenge 2026
+experience: Ex-Intern @ Infosys, Mysore DC
+target: iOS Developer / SDE roles, NCR — full-time 2027
+dsa: 150+ LeetCode | active on CodeChef
+building: Avello — focus & emotional regulation app (pre-seed)
+```
+
+</td>
+<td width="40%" valign="top" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=vanshikapal14&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:24243e&height=3&width=100%"/>
+
+<div align="center">
 
 ### 🧰 Tech Stack
 
-<div align="center">
-
-![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-0D96F6?style=for-the-badge&logo=swift&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<img src="https://skillicons.dev/icons?i=swift,flutter,dart,java,xcode,git,github,figma&theme=dark" />
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:24243e&height=3&width=100%"/>
 
 ### 📌 Featured Projects
 
-<table>
+<table width="100%">
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 **🧘 Avello**
 Focus & emotional regulation productivity app — Focus Pods (social focus sessions), Pomodoro check-ins, room creation flow. Pre-seed pitch deck complete.
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 **😴 SleepSense Reflect**
 Sleep tracking app — live on the App Store.
@@ -57,79 +70,51 @@ Sleep tracking app — live on the App Store.
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 **🚚 iOS Fleet Management System**
-Multi-role app for Fleet Managers, Drivers & Maintenance Personnel. Built with MVVM, SwiftData, Core Location, Core ML, async/await.
+Multi-role app for Fleet Managers, Drivers & Maintenance Personnel. MVVM, SwiftData, Core Location, Core ML, async/await.
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
+
+**🏙️ Build What Moves India**
+Civic issue reporting app with verified resolution tracking — hackathon build (Varun Mayya x OpenAI).
 
 </td>
 </tr>
 </table>
 
----
-
-### 📊 GitHub Stats
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:24243e&height=3&width=100%"/>
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=vanshikapal14&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshikapal14&layout=compact&theme=radical&hide_border=true"/>
+### 📈 Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vanshikapal14&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=A78BFA&point=ffffff" width="100%"/>
+
+<br/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshikapal14&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=vanshikapal14&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=vanshikapal14&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:24243e&height=3&width=100%"/>
 
 <div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vanshikapal14&theme=radical&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=vanshikapal14&theme=radical&no-frame=true&row=1&column=6"/>
-
-</div>
-
----
 
 ### 🐍 Contribution Snake
 
-<!-- Requires the github-contribution-snake GitHub Action set up in this repo (see setup note below) -->
-<div align="center">
-<img src="https://raw.githubusercontent.com/vanshikapal14/vanshikapal14/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</div>
-
----
-
-### 📫 Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vanshikapal14)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/chaaiandtech)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vanshikapal14/vanshikapal14/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/vanshikapal14/vanshikapal14/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
 
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=vanshikapal14&color=8A2BE2&style=flat)
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-<!--
-**vanshikapal14/vanshikapal14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
