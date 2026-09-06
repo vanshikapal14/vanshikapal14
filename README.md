@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=VANSHIKA%20PAL&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=iOS%20Developer%20%7C%20SDE%20Aspirant%20%7C%20Builder&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=VANSHIKA%20PAL&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=iOS%20Developer%20%7C%20SDE%20Aspirant%20%7C%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&width=750&lines=const+dev+%3D+%7B+role%3A+%22iOS+Developer%22+%7D%3B;whoami+%E2%86%92+building+Avello+%F0%9F%A7%98;Swift+%2B+SwiftUI+%2B+SwiftData;Apple+Swift+Student+Challenge+2026+%F0%9F%8F%86" alt="Typing SVG" />
 
