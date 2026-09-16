@@ -2,7 +2,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=240&section=header&text=Vanshika%20Pal&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=iOS%20Developer%20%7C%20SDE%20Aspirant%20%7C%20Developer&descSize=18&descColor=c0b3f5&descAlignY=60&descAlign=50" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=700&color=A78BFA&center=true&vCenter=true&width=680&height=42&lines=const+role+%3D+%22iOS+Developer+%2F+SDE%22%3B;import+SwiftUI+%2F%2F+building+fluid+Apple+experiences;Ex-Infosys+Intern+%7C+150%2B+LeetCode+solved;Avello+%26+SleepSense+Reflect+%E2%80%94+live+on+App+Store" alt="Typing SVG" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=700&color=A78BFA&center=true&vCenter=true&width=680&height=42&lines=const+role+%3D+%22iOS+Developer+%2F+SDE%22%3B;import+SwiftUI+%2F%2F+building+fluid+Apple+experiences;Ex-Infosys+Intern+%7C+150%2B+LeetCode+solved;Avello+%26+SleepSense+Reflect+%E2%80%94+live+on+App+Store" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=700&color=6D28D9&center=true&vCenter=true&width=680&height=42&lines=const+role+%3D+%22iOS+Developer+%2F+SDE%22%3B;import+SwiftUI+%2F%2F+building+fluid+Apple+experiences;Ex-Infosys+Intern+%7C+150%2B+LeetCode+solved;Avello+%26+SleepSense+Reflect+%E2%80%94+live+on+App+Store" />
+  <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=700&color=A78BFA&center=true&vCenter=true&width=680&height=42&lines=const+role+%3D+%22iOS+Developer+%2F+SDE%22%3B;import+SwiftUI+%2F%2F+building+fluid+Apple+experiences;Ex-Infosys+Intern+%7C+150%2B+LeetCode+solved;Avello+%26+SleepSense+Reflect+%E2%80%94+live+on+App+Store" />
+</picture>
 
 <br/>
 
@@ -14,14 +18,18 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0:1e1b4b,100:312e81&height=2&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0:7c3aed,100:a78bfa&height=2&width=100%"/>
 
 <br/>
 
 <!-- ────────────────────────── ABOUT ────────────────────────── -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1e1b4b,100:2e1065&height=50&text=%20%20%2F%2F%20about%20me&fontSize=22&fontColor=c4b5fd&fontAlignY=68&fontAlign=20&animation=fadeIn" width="340"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=soft&color=0:1e1b4b,100:2e1065&height=50&text=%20%20%2F%2F%20about%20me&fontSize=22&fontColor=c4b5fd&fontAlignY=68&fontAlign=20&animation=fadeIn" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=soft&color=0:f3e8ff,100:e9d5ff&height=50&text=%20%20%2F%2F%20about%20me&fontSize=22&fontColor=6d28d9&fontAlignY=68&fontAlign=20&animation=fadeIn" />
+  <img alt="// about me" src="https://capsule-render.vercel.app/api?type=soft&color=0:1e1b4b,100:2e1065&height=50&text=%20%20%2F%2F%20about%20me&fontSize=22&fontColor=c4b5fd&fontAlignY=68&fontAlign=20&animation=fadeIn" width="340"/>
+</picture>
 </div>
 
 <br/>
@@ -55,9 +63,17 @@ target:       Full-time iOS / SDE from 2027
 </td>
 <td width="45%" valign="top" align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vanshikapal14&theme=tokyonight" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vanshikapal14&theme=tokyonight" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vanshikapal14&theme=default" />
+  <img alt="GitHub Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vanshikapal14&theme=tokyonight" width="100%"/>
+</picture>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vanshikapal14&theme=tokyonight&utcOffset=5.5" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vanshikapal14&theme=tokyonight&utcOffset=5.5" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vanshikapal14&theme=default&utcOffset=5.5" />
+  <img alt="Productive Time" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vanshikapal14&theme=tokyonight&utcOffset=5.5" width="100%"/>
+</picture>
 
 </td>
 </tr>
@@ -65,32 +81,44 @@ target:       Full-time iOS / SDE from 2027
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0:1e1b4b,100:312e81&height=2&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0:7c3aed,100:a78bfa&height=2&width=100%"/>
 
 <br/>
 
 <!-- ────────────────────────── TECH STACK ────────────────────────── -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1e1b4b,100:2e1065&height=50&text=%20%20%2F%2F%20tech%20stack&fontSize=22&fontColor=c4b5fd&fontAlignY=68&fontAlign=21&animation=fadeIn" width="340"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=soft&color=0:1e1b4b,100:2e1065&height=50&text=%20%20%2F%2F%20tech%20stack&fontSize=22&fontColor=c4b5fd&fontAlignY=68&fontAlign=21&animation=fadeIn" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=soft&color=0:f3e8ff,100:e9d5ff&height=50&text=%20%20%2F%2F%20tech%20stack&fontSize=22&fontColor=6d28d9&fontAlignY=68&fontAlign=21&animation=fadeIn" />
+  <img alt="// tech stack" src="https://capsule-render.vercel.app/api?type=soft&color=0:1e1b4b,100:2e1065&height=50&text=%20%20%2F%2F%20tech%20stack&fontSize=22&fontColor=c4b5fd&fontAlignY=68&fontAlign=21&animation=fadeIn" width="340"/>
+</picture>
 </div>
 
 <br/>
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=swift,flutter,dart,java,firebase,git,github,figma,vscode&theme=dark" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=swift,flutter,dart,java,firebase,git,github,figma,vscode&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=swift,flutter,dart,java,firebase,git,github,figma,vscode&theme=light" />
+  <img alt="Tech Stack" src="https://skillicons.dev/icons?i=swift,flutter,dart,java,firebase,git,github,figma,vscode&theme=dark" />
+</picture>
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0:1e1b4b,100:312e81&height=2&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0:7c3aed,100:a78bfa&height=2&width=100%"/>
 
 <br/>
 
 <!-- ────────────────────────── PROJECTS ────────────────────────── -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1e1b4b,100:2e1065&height=50&text=%20%20%2F%2F%20featured%20projects&fontSize=22&fontColor=c4b5fd&fontAlignY=68&fontAlign=27&animation=fadeIn" width="380"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=soft&color=0:1e1b4b,100:2e1065&height=50&text=%20%20%2F%2F%20featured%20projects&fontSize=22&fontColor=c4b5fd&fontAlignY=68&fontAlign=27&animation=fadeIn" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=soft&color=0:f3e8ff,100:e9d5ff&height=50&text=%20%20%2F%2F%20featured%20projects&fontSize=22&fontColor=6d28d9&fontAlignY=68&fontAlign=27&animation=fadeIn" />
+  <img alt="// featured projects" src="https://capsule-render.vercel.app/api?type=soft&color=0:1e1b4b,100:2e1065&height=50&text=%20%20%2F%2F%20featured%20projects&fontSize=22&fontColor=c4b5fd&fontAlignY=68&fontAlign=27&animation=fadeIn" width="380"/>
+</picture>
 </div>
 
 <br/>
@@ -130,38 +158,58 @@ Intelligent circadian tracker that correlates bedtime habits with next-day menta
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0:1e1b4b,100:312e81&height=2&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0:7c3aed,100:a78bfa&height=2&width=100%"/>
 
 <br/>
 
 <!-- ────────────────────────── ACTIVITY ────────────────────────── -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1e1b4b,100:2e1065&height=50&text=%20%20%2F%2F%20github%20activity&fontSize=22&fontColor=c4b5fd&fontAlignY=68&fontAlign=26&animation=fadeIn" width="380"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=soft&color=0:1e1b4b,100:2e1065&height=50&text=%20%20%2F%2F%20github%20activity&fontSize=22&fontColor=c4b5fd&fontAlignY=68&fontAlign=26&animation=fadeIn" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=soft&color=0:f3e8ff,100:e9d5ff&height=50&text=%20%20%2F%2F%20github%20activity&fontSize=22&fontColor=6d28d9&fontAlignY=68&fontAlign=26&animation=fadeIn" />
+  <img alt="// github activity" src="https://capsule-render.vercel.app/api?type=soft&color=0:1e1b4b,100:2e1065&height=50&text=%20%20%2F%2F%20github%20activity&fontSize=22&fontColor=c4b5fd&fontAlignY=68&fontAlign=26&animation=fadeIn" width="380"/>
+</picture>
 </div>
 
 <br/>
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vanshikapal14&theme=tokyonight" height="160"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vanshikapal14&theme=tokyonight" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vanshikapal14&theme=default" />
+  <img alt="Repos Per Language" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vanshikapal14&theme=tokyonight" height="160"/>
+</picture>
 &nbsp;&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vanshikapal14&theme=tokyonight" height="160"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vanshikapal14&theme=tokyonight" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vanshikapal14&theme=default" />
+  <img alt="Most Commit Language" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vanshikapal14&theme=tokyonight" height="160"/>
+</picture>
 &nbsp;&nbsp;
-<img src="https://streak-stats.demolab.com/?user=vanshikapal14&theme=tokyonight&hide_border=true&background=1a1b2e&ring=A78BFA&fire=7c3aed&currStreakLabel=c4b5fd&sideLabels=c4b5fd&dates=a9b1d6" height="160"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=vanshikapal14&theme=tokyonight&hide_border=true&background=1a1b2e&ring=A78BFA&fire=7c3aed&currStreakLabel=c4b5fd&sideLabels=c4b5fd&dates=a9b1d6" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=vanshikapal14&theme=swift&hide_border=true&background=ffffff&ring=7c3aed&fire=7c3aed&currStreakLabel=6d28d9&sideLabels=4c1d95&dates=374151" />
+  <img alt="Streak Stats" src="https://streak-stats.demolab.com/?user=vanshikapal14&theme=tokyonight&hide_border=true&background=1a1b2e&ring=A78BFA&fire=7c3aed&currStreakLabel=c4b5fd&sideLabels=c4b5fd&dates=a9b1d6" height="160"/>
+</picture>
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0:1e1b4b,100:312e81&height=2&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0:7c3aed,100:a78bfa&height=2&width=100%"/>
 
 <br/>
 
 <!-- ────────────────────────── SNAKE ────────────────────────── -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1e1b4b,100:2e1065&height=50&text=%20%20%2F%2F%20contribution%20graph&fontSize=22&fontColor=c4b5fd&fontAlignY=68&fontAlign=29&animation=fadeIn" width="400"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=soft&color=0:1e1b4b,100:2e1065&height=50&text=%20%20%2F%2F%20contribution%20graph&fontSize=22&fontColor=c4b5fd&fontAlignY=68&fontAlign=29&animation=fadeIn" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=soft&color=0:f3e8ff,100:e9d5ff&height=50&text=%20%20%2F%2F%20contribution%20graph&fontSize=22&fontColor=6d28d9&fontAlignY=68&fontAlign=29&animation=fadeIn" />
+  <img alt="// contribution graph" src="https://capsule-render.vercel.app/api?type=soft&color=0:1e1b4b,100:2e1065&height=50&text=%20%20%2F%2F%20contribution%20graph&fontSize=22&fontColor=c4b5fd&fontAlignY=68&fontAlign=29&animation=fadeIn" width="400"/>
+</picture>
 </div>
 
 <br/>
