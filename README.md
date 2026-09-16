@@ -25,7 +25,11 @@
 <!-- ────────────────────────── ABOUT ────────────────────────── -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:ede9fe,100:ddd6fe&height=50&text=%20%20%2F%2F%20about%20me&fontSize=22&fontColor=5b21b6&fontAlignY=68&fontAlign=20&animation=fadeIn" width="340"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=soft&color=0:1e1b4b,100:2e1065&height=50&text=%20%20%2F%2F%20about%20me&fontSize=22&fontColor=c4b5fd&fontAlignY=68&fontAlign=20&animation=fadeIn" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=soft&color=0:f3e8ff,100:e9d5ff&height=50&text=%20%20%2F%2F%20about%20me&fontSize=22&fontColor=6d28d9&fontAlignY=68&fontAlign=20&animation=fadeIn" />
+  <img alt="// about me" src="https://capsule-render.vercel.app/api?type=soft&color=0:1e1b4b,100:2e1065&height=50&text=%20%20%2F%2F%20about%20me&fontSize=22&fontColor=c4b5fd&fontAlignY=68&fontAlign=20&animation=fadeIn" width="340"/>
+</picture>
 </div>
 
 <br/>
@@ -42,11 +46,11 @@ university:   Galgotias University
 location:     NCR, India
 
 stack:
-  languages:  [Swift, Dart, Java]
-  ui:         [SwiftUI, Flutter]
-  data:       [SwiftData, CoreData, CloudKit]
-  sdks:       [Core Location, Core ML, Combine]
-  tools:      [Xcode, Firebase, Git, Figma]
+  languages:  [Swift, Java, Python, JavaScript]
+  ios:        [SwiftUI, UIKit, Swift Charts, SwiftData, HealthKit, Core ML]
+  fullstack:  [React, Node.js, Express.js]
+  databases:  [MongoDB, Firebase, CoreData, CloudKit]
+  tools:      [Xcode, Git, GitHub, VS Code, Figma]
 
 experience:
   - Ex-Intern @ Infosys (Mysore DC)
@@ -84,42 +88,74 @@ target:       Full-time iOS / SDE from 2027
 <!-- ────────────────────────── TECH STACK ────────────────────────── -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:ede9fe,100:ddd6fe&height=50&text=%20%20%2F%2F%20tech%20stack&fontSize=22&fontColor=5b21b6&fontAlignY=68&fontAlign=21&animation=fadeIn" width="340"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=soft&color=0:1e1b4b,100:2e1065&height=50&text=%20%20%2F%2F%20tech%20stack&fontSize=22&fontColor=c4b5fd&fontAlignY=68&fontAlign=21&animation=fadeIn" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=soft&color=0:f3e8ff,100:e9d5ff&height=50&text=%20%20%2F%2F%20tech%20stack&fontSize=22&fontColor=6d28d9&fontAlignY=68&fontAlign=21&animation=fadeIn" />
+  <img alt="// tech stack" src="https://capsule-render.vercel.app/api?type=soft&color=0:1e1b4b,100:2e1065&height=50&text=%20%20%2F%2F%20tech%20stack&fontSize=22&fontColor=c4b5fd&fontAlignY=68&fontAlign=21&animation=fadeIn" width="340"/>
+</picture>
 </div>
 
 <br/>
 
 <div align="center">
 
-<!-- Row 1: Core languages & Apple platform -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=swift,xcode,flutter,dart,java&theme=dark&perline=5"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=swift,xcode,flutter,dart,java&theme=light&perline=5"/>
-  <img alt="Languages" src="https://skillicons.dev/icons?i=swift,xcode,flutter,dart,java&theme=dark&perline=5"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=swift,java,py,js,react,nodejs,express,mongodb,firebase,git,github,figma,vscode&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=swift,java,py,js,react,nodejs,express,mongodb,firebase,git,github,figma,vscode&theme=light" />
+  <img alt="Tech Stack Icons" src="https://skillicons.dev/icons?i=swift,java,py,js,react,nodejs,express,mongodb,firebase,git,github,figma,vscode&theme=dark" />
 </picture>
 
-<br/>
-
-<!-- Row 2: Tools & Infrastructure -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=firebase,git,github,figma,vscode&theme=dark&perline=5"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=firebase,git,github,figma,vscode&theme=light&perline=5"/>
-  <img alt="Tools" src="https://skillicons.dev/icons?i=firebase,git,github,figma,vscode&theme=dark&perline=5"/>
-</picture>
+</div>
 
 <br/><br/>
 
-<!-- Apple Frameworks (no icons available on skillicons) -->
-![SwiftUI](https://img.shields.io/badge/SwiftUI-black?style=flat-square&logo=swift&logoColor=F05138)
-![SwiftData](https://img.shields.io/badge/SwiftData-black?style=flat-square&logo=swift&logoColor=F05138)
-![CoreData](https://img.shields.io/badge/CoreData-black?style=flat-square&logo=apple&logoColor=white)
-![HealthKit](https://img.shields.io/badge/HealthKit-black?style=flat-square&logo=apple&logoColor=white)
-![Core ML](https://img.shields.io/badge/Core%20ML-black?style=flat-square&logo=apple&logoColor=white)
-![Core Location](https://img.shields.io/badge/Core%20Location-black?style=flat-square&logo=apple&logoColor=white)
-![Combine](https://img.shields.io/badge/Combine-black?style=flat-square&logo=apple&logoColor=white)
-![CloudKit](https://img.shields.io/badge/CloudKit-black?style=flat-square&logo=icloud&logoColor=white)
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-</div>
+<h4>Languages &amp; iOS Development</h4>
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+<br/>
+
+![SwiftUI](https://img.shields.io/badge/SwiftUI-007ACC?style=flat-square&logo=swift&logoColor=white)
+![UIKit](https://img.shields.io/badge/UIKit-1572B6?style=flat-square&logo=apple&logoColor=white)
+![Swift Charts](https://img.shields.io/badge/Swift%20Charts-F05138?style=flat-square&logo=swift&logoColor=white)
+![SwiftData](https://img.shields.io/badge/SwiftData-0D96F6?style=flat-square&logo=swift&logoColor=white)
+![CoreData](https://img.shields.io/badge/CoreData-000000?style=flat-square&logo=apple&logoColor=white)
+![HealthKit](https://img.shields.io/badge/HealthKit-FF2D55?style=flat-square&logo=apple&logoColor=white)
+![Core ML](https://img.shields.io/badge/Core%20ML-FF9500?style=flat-square&logo=apple&logoColor=white)
+![Core Location](https://img.shields.io/badge/Core%20Location-34C759?style=flat-square&logo=apple&logoColor=white)
+![Combine](https://img.shields.io/badge/Combine-5856D6?style=flat-square&logo=apple&logoColor=white)
+![CloudKit](https://img.shields.io/badge/CloudKit-007AFF?style=flat-square&logo=icloud&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+<h4>Full Stack, Databases &amp; Tools</h4>
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+
+<br/>
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+<br/>
+
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -130,7 +166,11 @@ target:       Full-time iOS / SDE from 2027
 <!-- ────────────────────────── PROJECTS ────────────────────────── -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:ede9fe,100:ddd6fe&height=50&text=%20%20%2F%2F%20featured%20projects&fontSize=22&fontColor=5b21b6&fontAlignY=68&fontAlign=27&animation=fadeIn" width="380"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=soft&color=0:1e1b4b,100:2e1065&height=50&text=%20%20%2F%2F%20featured%20projects&fontSize=22&fontColor=c4b5fd&fontAlignY=68&fontAlign=27&animation=fadeIn" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=soft&color=0:f3e8ff,100:e9d5ff&height=50&text=%20%20%2F%2F%20featured%20projects&fontSize=22&fontColor=6d28d9&fontAlignY=68&fontAlign=27&animation=fadeIn" />
+  <img alt="// featured projects" src="https://capsule-render.vercel.app/api?type=soft&color=0:1e1b4b,100:2e1065&height=50&text=%20%20%2F%2F%20featured%20projects&fontSize=22&fontColor=c4b5fd&fontAlignY=68&fontAlign=27&animation=fadeIn" width="380"/>
+</picture>
 </div>
 
 <br/>
@@ -177,7 +217,11 @@ Intelligent circadian tracker that correlates bedtime habits with next-day menta
 <!-- ────────────────────────── ACTIVITY ────────────────────────── -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:ede9fe,100:ddd6fe&height=50&text=%20%20%2F%2F%20github%20activity&fontSize=22&fontColor=5b21b6&fontAlignY=68&fontAlign=26&animation=fadeIn" width="380"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=soft&color=0:1e1b4b,100:2e1065&height=50&text=%20%20%2F%2F%20github%20activity&fontSize=22&fontColor=c4b5fd&fontAlignY=68&fontAlign=26&animation=fadeIn" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=soft&color=0:f3e8ff,100:e9d5ff&height=50&text=%20%20%2F%2F%20github%20activity&fontSize=22&fontColor=6d28d9&fontAlignY=68&fontAlign=26&animation=fadeIn" />
+  <img alt="// github activity" src="https://capsule-render.vercel.app/api?type=soft&color=0:1e1b4b,100:2e1065&height=50&text=%20%20%2F%2F%20github%20activity&fontSize=22&fontColor=c4b5fd&fontAlignY=68&fontAlign=26&animation=fadeIn" width="380"/>
+</picture>
 </div>
 
 <br/>
@@ -185,20 +229,20 @@ Intelligent circadian tracker that correlates bedtime habits with next-day menta
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vanshikapal14&theme=tokyonight"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vanshikapal14&theme=default"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vanshikapal14&theme=tokyonight" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vanshikapal14&theme=default" />
   <img alt="Repos Per Language" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vanshikapal14&theme=tokyonight" height="160"/>
 </picture>
 &nbsp;&nbsp;
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vanshikapal14&theme=tokyonight"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vanshikapal14&theme=default"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vanshikapal14&theme=tokyonight" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vanshikapal14&theme=default" />
   <img alt="Most Commit Language" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vanshikapal14&theme=tokyonight" height="160"/>
 </picture>
 &nbsp;&nbsp;
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=vanshikapal14&theme=tokyonight&hide_border=true&background=1a1b2e&ring=A78BFA&fire=7c3aed&currStreakLabel=c4b5fd&sideLabels=c4b5fd&dates=a9b1d6"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=vanshikapal14&theme=swift&hide_border=true&background=ffffff&ring=7c3aed&fire=7c3aed&currStreakLabel=6d28d9&sideLabels=4c1d95&dates=374151"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=vanshikapal14&theme=tokyonight&hide_border=true&background=1a1b2e&ring=A78BFA&fire=7c3aed&currStreakLabel=c4b5fd&sideLabels=c4b5fd&dates=a9b1d6" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=vanshikapal14&theme=swift&hide_border=true&background=ffffff&ring=7c3aed&fire=7c3aed&currStreakLabel=6d28d9&sideLabels=4c1d95&dates=374151" />
   <img alt="Streak Stats" src="https://streak-stats.demolab.com/?user=vanshikapal14&theme=tokyonight&hide_border=true&background=1a1b2e&ring=A78BFA&fire=7c3aed&currStreakLabel=c4b5fd&sideLabels=c4b5fd&dates=a9b1d6" height="160"/>
 </picture>
 
@@ -213,7 +257,11 @@ Intelligent circadian tracker that correlates bedtime habits with next-day menta
 <!-- ────────────────────────── SNAKE ────────────────────────── -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:ede9fe,100:ddd6fe&height=50&text=%20%20%2F%2F%20contribution%20graph&fontSize=22&fontColor=5b21b6&fontAlignY=68&fontAlign=29&animation=fadeIn" width="400"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=soft&color=0:1e1b4b,100:2e1065&height=50&text=%20%20%2F%2F%20contribution%20graph&fontSize=22&fontColor=c4b5fd&fontAlignY=68&fontAlign=29&animation=fadeIn" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=soft&color=0:f3e8ff,100:e9d5ff&height=50&text=%20%20%2F%2F%20contribution%20graph&fontSize=22&fontColor=6d28d9&fontAlignY=68&fontAlign=29&animation=fadeIn" />
+  <img alt="// contribution graph" src="https://capsule-render.vercel.app/api?type=soft&color=0:1e1b4b,100:2e1065&height=50&text=%20%20%2F%2F%20contribution%20graph&fontSize=22&fontColor=c4b5fd&fontAlignY=68&fontAlign=29&animation=fadeIn" width="400"/>
+</picture>
 </div>
 
 <br/>
