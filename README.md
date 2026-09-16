@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=240&section=header&text=Vanshika%20Pal&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=iOS%20Developer%20%E2%80%94%20Crafting%20Native%20Apple%20Experiences&descSize=18&descColor=c0b3f5&descAlignY=60&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=240&section=header&text=Vanshika%20Pal&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=iOS%20Developer%20%7C%20SDE%20Aspirant%20%7C%20Developer&descSize=18&descColor=c0b3f5&descAlignY=60&descAlign=50" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=700&color=A78BFA&center=true&vCenter=true&width=680&height=42&lines=const+role+%3D+%22iOS+Developer+%2F+SDE%22%3B;import+SwiftUI+%2F%2F+building+fluid+Apple+experiences;Ex-Infosys+Intern+%7C+150%2B+LeetCode+solved;Avello+%26+SleepSense+Reflect+%E2%80%94+live+on+App+Store" alt="Typing SVG" />
 
