@@ -58,13 +58,13 @@ building: Avello — focus & emotional regulation app (pre-seed)
 <tr>
 <td width="50%" valign="top">
 
-**🧘 Avello**
+**🧘 Avello**<br/>
 Focus & emotional regulation productivity app — Focus Pods (social focus sessions), Pomodoro check-ins, room creation flow. Pre-seed pitch deck complete.
 
 </td>
 <td width="50%" valign="top">
 
-**😴 SleepSense Reflect**
+**😴 SleepSense Reflect**<br/>
 Sleep tracking app — live on the App Store.
 
 </td>
@@ -72,13 +72,13 @@ Sleep tracking app — live on the App Store.
 <tr>
 <td width="50%" valign="top">
 
-**🚚 iOS Fleet Management System**
+**🚚 iOS Fleet Management System**<br/>
 Multi-role app for Fleet Managers, Drivers & Maintenance Personnel. MVVM, SwiftData, Core Location, Core ML, async/await.
 
 </td>
 <td width="50%" valign="top">
 
-**🏙️ Build What Moves India**
+**🏙️ Build What Moves India**<br/>
 Civic issue reporting app with verified resolution tracking — hackathon build (Varun Mayya x OpenAI).
 
 </td>
@@ -93,11 +93,10 @@ Civic issue reporting app with verified resolution tracking — hackathon build 
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vanshikapal14&theme=tokyonight" width="100%" alt="Profile Details" />
 
-
 <br/>
 
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshikapal14&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=vanshikapal14&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA"/>
+<img height="165" src="https://streak-stats.demolab.com/?user=vanshikapal14&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA"/>
 
 <br/><br/>
 
