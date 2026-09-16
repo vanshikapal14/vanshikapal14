@@ -18,18 +18,10 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0:7c3aed,100:a78bfa&height=2&width=100%"/>
-
-<br/>
-
-<!-- ────────────────────────── ABOUT ────────────────────────── -->
+<!-- ══════════════════  ABOUT ME  ══════════════════ -->
 
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=soft&color=0:1e1b4b,100:2e1065&height=50&text=%20%20%2F%2F%20about%20me&fontSize=22&fontColor=c4b5fd&fontAlignY=68&fontAlign=20&animation=fadeIn" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=soft&color=0:f3e8ff,100:e9d5ff&height=50&text=%20%20%2F%2F%20about%20me&fontSize=22&fontColor=6d28d9&fontAlignY=68&fontAlign=20&animation=fadeIn" />
-  <img alt="// about me" src="https://capsule-render.vercel.app/api?type=soft&color=0:1e1b4b,100:2e1065&height=50&text=%20%20%2F%2F%20about%20me&fontSize=22&fontColor=c4b5fd&fontAlignY=68&fontAlign=20&animation=fadeIn" width="340"/>
-</picture>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:5b21b6,100:7c3aed&height=38&text=%20%20%20%E2%86%92%20About%20Me&fontSize=20&fontColor=ffffff&fontAlign=15&fontAlignY=65" width="100%"/>
 </div>
 
 <br/>
@@ -47,7 +39,7 @@ location:     NCR, India
 
 stack:
   languages:  [Swift, Java, Python, JavaScript]
-  ios:        [SwiftUI, UIKit, Swift Charts, SwiftData, HealthKit, Core ML]
+  ios:        [SwiftUI, UIKit, SwiftData, HealthKit, Core ML]
   fullstack:  [React, Node.js, Express.js]
   databases:  [MongoDB, Firebase, CoreData, CloudKit]
   tools:      [Xcode, Git, GitHub, VS Code, Figma]
@@ -81,96 +73,63 @@ target:       Full-time iOS / SDE from 2027
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0:7c3aed,100:a78bfa&height=2&width=100%"/>
-
-<br/>
-
-<!-- ────────────────────────── TECH STACK ────────────────────────── -->
+<!-- ══════════════════  TECH STACK  ══════════════════ -->
 
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=soft&color=0:1e1b4b,100:2e1065&height=50&text=%20%20%2F%2F%20tech%20stack&fontSize=22&fontColor=c4b5fd&fontAlignY=68&fontAlign=21&animation=fadeIn" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=soft&color=0:f3e8ff,100:e9d5ff&height=50&text=%20%20%2F%2F%20tech%20stack&fontSize=22&fontColor=6d28d9&fontAlignY=68&fontAlign=21&animation=fadeIn" />
-  <img alt="// tech stack" src="https://capsule-render.vercel.app/api?type=soft&color=0:1e1b4b,100:2e1065&height=50&text=%20%20%2F%2F%20tech%20stack&fontSize=22&fontColor=c4b5fd&fontAlignY=68&fontAlign=21&animation=fadeIn" width="340"/>
-</picture>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:5b21b6,100:7c3aed&height=38&text=%20%20%20%E2%86%92%20Tech%20Stack&fontSize=20&fontColor=ffffff&fontAlign=15&fontAlignY=65" width="100%"/>
 </div>
 
 <br/>
 
 <div align="center">
 
+<!-- Row 1: Languages -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=swift,java,py,js,react,nodejs,express,mongodb,firebase,git,github,figma,vscode&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=swift,java,py,js,react,nodejs,express,mongodb,firebase,git,github,figma,vscode&theme=light" />
-  <img alt="Tech Stack Icons" src="https://skillicons.dev/icons?i=swift,java,py,js,react,nodejs,express,mongodb,firebase,git,github,figma,vscode&theme=dark" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=swift,java,py,js,dart&theme=dark&perline=5"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=swift,java,py,js,dart&theme=light&perline=5"/>
+  <img alt="Languages" src="https://skillicons.dev/icons?i=swift,java,py,js,dart&theme=dark&perline=5"/>
 </picture>
-
-</div>
 
 <br/><br/>
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+<!-- Row 2: Frameworks & Databases -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,firebase&theme=dark&perline=5"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,firebase&theme=light&perline=5"/>
+  <img alt="Frameworks" src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,firebase&theme=dark&perline=5"/>
+</picture>
 
-<h4>Languages &amp; iOS Development</h4>
-![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+<br/><br/>
 
-<br/>
+<!-- Row 3: Tools -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=xcode,git,github,vscode,figma&theme=dark&perline=5"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=xcode,git,github,vscode,figma&theme=light&perline=5"/>
+  <img alt="Tools" src="https://skillicons.dev/icons?i=xcode,git,github,vscode,figma&theme=dark&perline=5"/>
+</picture>
 
-![SwiftUI](https://img.shields.io/badge/SwiftUI-007ACC?style=flat-square&logo=swift&logoColor=white)
+<br/><br/>
+
+<!-- Apple Frameworks (no icons on skillicons.dev) -->
+![SwiftUI](https://img.shields.io/badge/SwiftUI-F05138?style=flat-square&logo=swift&logoColor=white)
 ![UIKit](https://img.shields.io/badge/UIKit-1572B6?style=flat-square&logo=apple&logoColor=white)
-![Swift Charts](https://img.shields.io/badge/Swift%20Charts-F05138?style=flat-square&logo=swift&logoColor=white)
 ![SwiftData](https://img.shields.io/badge/SwiftData-0D96F6?style=flat-square&logo=swift&logoColor=white)
-![CoreData](https://img.shields.io/badge/CoreData-000000?style=flat-square&logo=apple&logoColor=white)
 ![HealthKit](https://img.shields.io/badge/HealthKit-FF2D55?style=flat-square&logo=apple&logoColor=white)
 ![Core ML](https://img.shields.io/badge/Core%20ML-FF9500?style=flat-square&logo=apple&logoColor=white)
 ![Core Location](https://img.shields.io/badge/Core%20Location-34C759?style=flat-square&logo=apple&logoColor=white)
+![CoreData](https://img.shields.io/badge/CoreData-636366?style=flat-square&logo=apple&logoColor=white)
+![CloudKit](https://img.shields.io/badge/CloudKit-147EFB?style=flat-square&logo=icloud&logoColor=white)
 ![Combine](https://img.shields.io/badge/Combine-5856D6?style=flat-square&logo=apple&logoColor=white)
-![CloudKit](https://img.shields.io/badge/CloudKit-007AFF?style=flat-square&logo=icloud&logoColor=white)
+![Swift Charts](https://img.shields.io/badge/Swift%20Charts-F05138?style=flat-square&logo=swift&logoColor=white)
 
-</td>
-<td width="50%" valign="top">
-
-<h4>Full Stack, Databases &amp; Tools</h4>
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+</div>
 
 <br/>
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
-<br/>
-
-![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0:7c3aed,100:a78bfa&height=2&width=100%"/>
-
-<br/>
-
-<!-- ────────────────────────── PROJECTS ────────────────────────── -->
+<!-- ══════════════════  FEATURED PROJECTS  ══════════════════ -->
 
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=soft&color=0:1e1b4b,100:2e1065&height=50&text=%20%20%2F%2F%20featured%20projects&fontSize=22&fontColor=c4b5fd&fontAlignY=68&fontAlign=27&animation=fadeIn" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=soft&color=0:f3e8ff,100:e9d5ff&height=50&text=%20%20%2F%2F%20featured%20projects&fontSize=22&fontColor=6d28d9&fontAlignY=68&fontAlign=27&animation=fadeIn" />
-  <img alt="// featured projects" src="https://capsule-render.vercel.app/api?type=soft&color=0:1e1b4b,100:2e1065&height=50&text=%20%20%2F%2F%20featured%20projects&fontSize=22&fontColor=c4b5fd&fontAlignY=68&fontAlign=27&animation=fadeIn" width="380"/>
-</picture>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:5b21b6,100:7c3aed&height=38&text=%20%20%20%E2%86%92%20Featured%20Projects&fontSize=20&fontColor=ffffff&fontAlign=20&fontAlignY=65" width="100%"/>
 </div>
 
 <br/>
@@ -188,7 +147,7 @@ Focus and emotional-regulation companion built around cognitive pacing. Features
 
 <br/><br/>
 
-[![Download on App Store](https://img.shields.io/badge/App%20Store-Download%20Avello-0D96F6?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/in/app/avello-adhd-focus-to-do/id6776181360)
+[![App Store](https://img.shields.io/badge/App%20Store-Download%20Avello-0D96F6?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/in/app/avello-adhd-focus-to-do/id6776181360)
 
 </td>
 <td width="50%" valign="top">
@@ -202,7 +161,7 @@ Intelligent circadian tracker that correlates bedtime habits with next-day menta
 
 <br/><br/>
 
-[![Download on App Store](https://img.shields.io/badge/App%20Store-Download%20SleepSense-0D96F6?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/in/app/sleepsense-reflect/id6762270448)
+[![App Store](https://img.shields.io/badge/App%20Store-Download%20SleepSense-0D96F6?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/in/app/sleepsense-reflect/id6762270448)
 
 </td>
 </tr>
@@ -210,18 +169,10 @@ Intelligent circadian tracker that correlates bedtime habits with next-day menta
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0:7c3aed,100:a78bfa&height=2&width=100%"/>
-
-<br/>
-
-<!-- ────────────────────────── ACTIVITY ────────────────────────── -->
+<!-- ══════════════════  GITHUB ACTIVITY  ══════════════════ -->
 
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=soft&color=0:1e1b4b,100:2e1065&height=50&text=%20%20%2F%2F%20github%20activity&fontSize=22&fontColor=c4b5fd&fontAlignY=68&fontAlign=26&animation=fadeIn" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=soft&color=0:f3e8ff,100:e9d5ff&height=50&text=%20%20%2F%2F%20github%20activity&fontSize=22&fontColor=6d28d9&fontAlignY=68&fontAlign=26&animation=fadeIn" />
-  <img alt="// github activity" src="https://capsule-render.vercel.app/api?type=soft&color=0:1e1b4b,100:2e1065&height=50&text=%20%20%2F%2F%20github%20activity&fontSize=22&fontColor=c4b5fd&fontAlignY=68&fontAlign=26&animation=fadeIn" width="380"/>
-</picture>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:5b21b6,100:7c3aed&height=38&text=%20%20%20%E2%86%92%20GitHub%20Activity&fontSize=20&fontColor=ffffff&fontAlign=18&fontAlignY=65" width="100%"/>
 </div>
 
 <br/>
@@ -229,20 +180,20 @@ Intelligent circadian tracker that correlates bedtime habits with next-day menta
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vanshikapal14&theme=tokyonight" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vanshikapal14&theme=default" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vanshikapal14&theme=tokyonight"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vanshikapal14&theme=default"/>
   <img alt="Repos Per Language" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vanshikapal14&theme=tokyonight" height="160"/>
 </picture>
 &nbsp;&nbsp;
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vanshikapal14&theme=tokyonight" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vanshikapal14&theme=default" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vanshikapal14&theme=tokyonight"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vanshikapal14&theme=default"/>
   <img alt="Most Commit Language" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vanshikapal14&theme=tokyonight" height="160"/>
 </picture>
 &nbsp;&nbsp;
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=vanshikapal14&theme=tokyonight&hide_border=true&background=1a1b2e&ring=A78BFA&fire=7c3aed&currStreakLabel=c4b5fd&sideLabels=c4b5fd&dates=a9b1d6" />
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=vanshikapal14&theme=swift&hide_border=true&background=ffffff&ring=7c3aed&fire=7c3aed&currStreakLabel=6d28d9&sideLabels=4c1d95&dates=374151" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=vanshikapal14&theme=tokyonight&hide_border=true&background=1a1b2e&ring=A78BFA&fire=7c3aed&currStreakLabel=c4b5fd&sideLabels=c4b5fd&dates=a9b1d6"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=vanshikapal14&theme=swift&hide_border=true&background=ffffff&ring=7c3aed&fire=7c3aed&currStreakLabel=6d28d9&sideLabels=4c1d95&dates=374151"/>
   <img alt="Streak Stats" src="https://streak-stats.demolab.com/?user=vanshikapal14&theme=tokyonight&hide_border=true&background=1a1b2e&ring=A78BFA&fire=7c3aed&currStreakLabel=c4b5fd&sideLabels=c4b5fd&dates=a9b1d6" height="160"/>
 </picture>
 
@@ -250,18 +201,10 @@ Intelligent circadian tracker that correlates bedtime habits with next-day menta
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0:7c3aed,100:a78bfa&height=2&width=100%"/>
-
-<br/>
-
-<!-- ────────────────────────── SNAKE ────────────────────────── -->
+<!-- ══════════════════  CONTRIBUTION GRAPH  ══════════════════ -->
 
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=soft&color=0:1e1b4b,100:2e1065&height=50&text=%20%20%2F%2F%20contribution%20graph&fontSize=22&fontColor=c4b5fd&fontAlignY=68&fontAlign=29&animation=fadeIn" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=soft&color=0:f3e8ff,100:e9d5ff&height=50&text=%20%20%2F%2F%20contribution%20graph&fontSize=22&fontColor=6d28d9&fontAlignY=68&fontAlign=29&animation=fadeIn" />
-  <img alt="// contribution graph" src="https://capsule-render.vercel.app/api?type=soft&color=0:1e1b4b,100:2e1065&height=50&text=%20%20%2F%2F%20contribution%20graph&fontSize=22&fontColor=c4b5fd&fontAlignY=68&fontAlign=29&animation=fadeIn" width="400"/>
-</picture>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:5b21b6,100:7c3aed&height=38&text=%20%20%20%E2%86%92%20Contribution%20Graph&fontSize=20&fontColor=ffffff&fontAlign=21&fontAlignY=65" width="100%"/>
 </div>
 
 <br/>
