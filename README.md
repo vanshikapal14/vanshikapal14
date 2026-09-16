@@ -78,7 +78,7 @@ target:       Full-time iOS / SDE from 2027
 <br/>
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=swift,xcode,flutter,dart,java,firebase,git,github,figma,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=swift,flutter,dart,java,firebase,git,github,figma,vscode&theme=dark" />
 </div>
 
 <br/>
@@ -113,7 +113,7 @@ Focus and emotional-regulation companion built around cognitive pacing. Features
 </td>
 <td width="50%" valign="top">
 
-<h4>SleepSense Reflect</h4>
+<h4>SleepSense Reflect &mdash; Circadian &amp; Sleep Tracker</h4>
 <sub><code>SwiftUI &nbsp;&bull;&nbsp; HealthKit &nbsp;&bull;&nbsp; SwiftData &nbsp;&bull;&nbsp; Charts</code></sub>
 
 <br/><br/>
