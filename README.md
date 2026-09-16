@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=240&section=header&text=Vanshika%20Pal&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=iOS%20Developer%20%E2%80%94%20Crafting%20Native%20Apple%20Experiences&descSize=18&descColor=c0b3f5&descAlignY=60&descAlign=50" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=1000&color=A78BFA&center=true&vCenter=true&width=680&height=42&lines=const+role+%3D+%22iOS+Developer+%2F+SDE%22%3B;import+SwiftUI+%2F%2F+building+fluid+Apple+experiences;Ex-Infosys+Intern+%7C+150%2B+LeetCode+solved;Avello+%26+SleepSense+Reflect+%E2%80%94+live+on+App+Store" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=700&color=A78BFA&center=true&vCenter=true&width=680&height=42&lines=const+role+%3D+%22iOS+Developer+%2F+SDE%22%3B;import+SwiftUI+%2F%2F+building+fluid+Apple+experiences;Ex-Infosys+Intern+%7C+150%2B+LeetCode+solved;Avello+%26+SleepSense+Reflect+%E2%80%94+live+on+App+Store" alt="Typing SVG" />
 
 <br/>
 
@@ -18,7 +18,7 @@
 
 <br/>
 
-<!-- ─────────────────────────── ABOUT ─────────────────────────── -->
+<!-- ────────────────────────── ABOUT ────────────────────────── -->
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:1e1b4b,100:2e1065&height=50&text=%20%20%2F%2F%20about%20me&fontSize=22&fontColor=c4b5fd&fontAlignY=68&fontAlign=20&animation=fadeIn" width="340"/>
@@ -69,7 +69,7 @@ target:       Full-time iOS / SDE from 2027
 
 <br/>
 
-<!-- ─────────────────────────── TECH STACK ─────────────────────────── -->
+<!-- ────────────────────────── TECH STACK ────────────────────────── -->
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:1e1b4b,100:2e1065&height=50&text=%20%20%2F%2F%20tech%20stack&fontSize=22&fontColor=c4b5fd&fontAlignY=68&fontAlign=21&animation=fadeIn" width="340"/>
@@ -87,7 +87,7 @@ target:       Full-time iOS / SDE from 2027
 
 <br/>
 
-<!-- ─────────────────────────── PROJECTS ─────────────────────────── -->
+<!-- ────────────────────────── PROJECTS ────────────────────────── -->
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:1e1b4b,100:2e1065&height=50&text=%20%20%2F%2F%20featured%20projects&fontSize=22&fontColor=c4b5fd&fontAlignY=68&fontAlign=27&animation=fadeIn" width="380"/>
@@ -99,7 +99,7 @@ target:       Full-time iOS / SDE from 2027
 <tr>
 <td width="50%" valign="top">
 
-<h4>Avello &nbsp;&mdash;&nbsp; ADHD Focus &amp; To-Do</h4>
+<h4>Avello &mdash; ADHD Focus &amp; To-Do</h4>
 <sub><code>Swift &nbsp;&bull;&nbsp; SwiftUI &nbsp;&bull;&nbsp; SwiftData &nbsp;&bull;&nbsp; Core Haptics</code></sub>
 
 <br/><br/>
@@ -134,7 +134,7 @@ Intelligent circadian tracker that correlates bedtime habits with next-day menta
 
 <br/>
 
-<!-- ─────────────────────────── ACTIVITY ─────────────────────────── -->
+<!-- ────────────────────────── ACTIVITY ────────────────────────── -->
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:1e1b4b,100:2e1065&height=50&text=%20%20%2F%2F%20github%20activity&fontSize=22&fontColor=c4b5fd&fontAlignY=68&fontAlign=26&animation=fadeIn" width="380"/>
@@ -144,13 +144,11 @@ Intelligent circadian tracker that correlates bedtime habits with next-day menta
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vanshikapal14&theme=tokyonight" width="96%" alt="Contribution Timeline"/>
-
-<br/><br/>
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vanshikapal14&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b2e&title_color=c4b5fd&text_color=a9b1d6" height="155"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vanshikapal14&theme=tokyonight" height="160"/>
 &nbsp;&nbsp;
-<img src="https://streak-stats.demolab.com/?user=vanshikapal14&theme=tokyonight&hide_border=true&background=1a1b2e&ring=A78BFA&fire=7c3aed&currStreakLabel=c4b5fd&sideLabels=c4b5fd&dates=a9b1d6" height="155"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vanshikapal14&theme=tokyonight" height="160"/>
+&nbsp;&nbsp;
+<img src="https://streak-stats.demolab.com/?user=vanshikapal14&theme=tokyonight&hide_border=true&background=1a1b2e&ring=A78BFA&fire=7c3aed&currStreakLabel=c4b5fd&sideLabels=c4b5fd&dates=a9b1d6" height="160"/>
 
 </div>
 
@@ -160,7 +158,7 @@ Intelligent circadian tracker that correlates bedtime habits with next-day menta
 
 <br/>
 
-<!-- ─────────────────────────── SNAKE ─────────────────────────── -->
+<!-- ────────────────────────── SNAKE ────────────────────────── -->
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:1e1b4b,100:2e1065&height=50&text=%20%20%2F%2F%20contribution%20graph&fontSize=22&fontColor=c4b5fd&fontAlignY=68&fontAlign=29&animation=fadeIn" width="400"/>
