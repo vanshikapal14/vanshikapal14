@@ -1,120 +1,188 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=VANSHIKA%20PAL&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=iOS%20Developer%20%7C%20SDE%20Aspirant%20%7C%20Developer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=240&section=header&text=Vanshika%20Pal&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=iOS%20Developer%20%E2%80%94%20Crafting%20Native%20Apple%20Experiences&descSize=18&descColor=c0b3f5&descAlignY=60&descAlign=50" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&width=750&lines=const+dev+%3D+%7B+role%3A+%22iOS+Developer%22+%7D%3B;whoami+%E2%86%92+building+Avello+%F0%9F%A7%98;Swift+%2B+SwiftUI+%2B+SwiftData;Apple+Swift+Student+Challenge+2026+%F0%9F%8F%86" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=1000&color=A78BFA&center=true&vCenter=true&width=680&height=42&lines=const+role+%3D+%22iOS+Developer+%2F+SDE%22%3B;import+SwiftUI+%2F%2F+building+fluid+Apple+experiences;Apple+Swift+Student+Challenge+2026;Ex-Infosys+Intern+%7C+150%2B+LeetCode+solved;Avello+%E2%80%94+Focus+App+in+active+alpha" alt="Typing SVG" />
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/-vanshikapal14-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanshikapal14/)
-[![Instagram](https://img.shields.io/badge/-chaaiandtech-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/chaaiandtech)
-![Profile Views](https://komarev.com/ghpvc/?username=vanshikapal14&color=A78BFA&style=flat-square&label=Profile+Views)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-vanshikapal14-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanshikapal14/)
+[![Instagram](https://img.shields.io/badge/Instagram-chaaiandtech-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/chaaiandtech)
+![Profile Views](https://komarev.com/ghpvc/?username=vanshikapal14&color=7c3aed&style=flat-square&label=Profile+Views)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:24243e&height=3&width=100%"/>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0:1e1b4b,100:312e81&height=2&width=100%"/>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1e1b4b,100:2e1065&height=50&text=%20%20%2F%2F%20about%20me&fontSize=22&fontColor=c4b5fd&fontAlignY=68&fontAlign=20&animation=fadeIn" width="340"/>
+</div>
+
+<br/>
 
 <table width="100%">
 <tr>
-<td width="60%" valign="top">
-
-### `console.log("about-me")`
+<td width="58%" valign="top">
 
 ```yaml
-role: iOS Developer / SDE Aspirant
-year: 4th year, B.Tech CSE — Galgotias University
-stack: [Swift, SwiftUI, SwiftData, Flutter, Dart, Java]
-recognition: Apple Swift Student Challenge 2026
-experience: Ex-Intern @ Infosys, Mysore DC
-target: iOS Developer / SDE roles, NCR — full-time 2027
-dsa: 150+ LeetCode | active on CodeChef
-building: Avello — focus & emotional regulation app (pre-seed)
+name:          Vanshika Pal
+role:          iOS Developer / SDE
+degree:        B.Tech CSE — 4th year (2027)
+university:    Galgotias University
+location:      NCR, India
+
+stack:
+  languages:   [Swift, Dart, Java]
+  ui:          [SwiftUI, Flutter]
+  data:        [SwiftData, CoreData, CloudKit]
+  frameworks:  [Core Location, Core ML, Combine]
+
+credentials:
+  - Apple Swift Student Challenge 2026
+  - Ex-Intern @ Infosys (Mysore DC)
+  - 150+ LeetCode  |  active on CodeChef
+
+availability:  Full-time from 2027
+               Open to iOS / SDE internships
 ```
 
 </td>
-<td width="40%" valign="top" align="center">
+<td width="42%" valign="top" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=vanshikapal14&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vanshikapal14&theme=tokyonight" width="100%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vanshikapal14&theme=tokyonight&utcOffset=5.5" width="100%"/>
 
 </td>
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:24243e&height=3&width=100%"/>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0:1e1b4b,100:312e81&height=2&width=100%"/>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1e1b4b,100:2e1065&height=50&text=%20%20%2F%2F%20tech%20stack&fontSize=22&fontColor=c4b5fd&fontAlignY=68&fontAlign=21&animation=fadeIn" width="340"/>
+</div>
+
+<br/>
 
 <div align="center">
 
-### 🧰 Tech Stack
-
-<img src="https://skillicons.dev/icons?i=swift,flutter,dart,java,xcode,git,github,figma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=swift,xcode,flutter,dart,java,firebase,git,github,figma,vscode&theme=dark&perline=10" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:24243e&height=3&width=100%"/>
+<br/>
 
-### 📌 Featured Projects
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0:1e1b4b,100:312e81&height=2&width=100%"/>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1e1b4b,100:2e1065&height=50&text=%20%20%2F%2F%20featured%20projects&fontSize=22&fontColor=c4b5fd&fontAlignY=68&fontAlign=27&animation=fadeIn" width="380"/>
+</div>
+
+<br/>
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
-
-**🧘 Avello**<br/>
-Focus & emotional regulation productivity app — Focus Pods (social focus sessions), Pomodoro check-ins, room creation flow. Pre-seed pitch deck complete.
-
+<h4>Avello</h4>
+<sub><code>Swift &nbsp;&bull;&nbsp; SwiftUI &nbsp;&bull;&nbsp; SwiftData &nbsp;&bull;&nbsp; Core Haptics</code></sub>
+<br/><br/>
+Focus and emotional-regulation companion built around cognitive pacing. Features collaborative <strong>Focus Pods</strong>, mood-calibrated timers, and biometric sensory anchors.
+<br/><br/>
+<sub>Status &nbsp;&rarr;&nbsp; <strong>Pre-seed deck complete &nbsp;&bull;&nbsp; Active iOS alpha</strong></sub>
 </td>
 <td width="50%" valign="top">
-
-**😴 SleepSense Reflect**<br/>
-Sleep tracking app — live on the App Store.
-
+<h4>SleepSense Reflect</h4>
+<sub><code>SwiftUI &nbsp;&bull;&nbsp; HealthKit &nbsp;&bull;&nbsp; SwiftData &nbsp;&bull;&nbsp; Charts</code></sub>
+<br/><br/>
+Intelligent circadian tracker that correlates bedtime habits with next-day clarity. Generates guided night-time reflections and recovery metrics.
+<br/><br/>
+<sub>Status &nbsp;&rarr;&nbsp; <strong>Live on the App Store</strong></sub>
 </td>
 </tr>
+<tr><td colspan="2"><br/></td></tr>
 <tr>
 <td width="50%" valign="top">
-
-**🚚 iOS Fleet Management System**<br/>
-Multi-role app for Fleet Managers, Drivers & Maintenance Personnel. MVVM, SwiftData, Core Location, Core ML, async/await.
-
+<h4>iOS Fleet Management System</h4>
+<sub><code>Swift &nbsp;&bull;&nbsp; SwiftUI &nbsp;&bull;&nbsp; SwiftData &nbsp;&bull;&nbsp; Core Location &nbsp;&bull;&nbsp; Core ML</code></sub>
+<br/><br/>
+Multi-role enterprise dispatch and asset monitoring suite for Fleet Managers, Dispatchers, and Drivers. Real-time geo-fencing, route efficiency analysis, and ML-based predictive maintenance.
+<br/><br/>
+<sub>Architecture &nbsp;&rarr;&nbsp; <strong>Clean MVVM &nbsp;&bull;&nbsp; Protocol-Oriented Services</strong></sub>
 </td>
 <td width="50%" valign="top">
-
-**🏙️ Build What Moves India**<br/>
-Civic issue reporting app with verified resolution tracking — hackathon build (Varun Mayya x OpenAI).
-
+<h4>Build What Moves India</h4>
+<sub><code>Swift &nbsp;&bull;&nbsp; SwiftUI &nbsp;&bull;&nbsp; Firebase &nbsp;&bull;&nbsp; OpenAI API</code></sub>
+<br/><br/>
+Civic issue reporting platform with verified resolution tracking. Hackathon build in collaboration with Varun Mayya x OpenAI, enabling community-driven urban transparency.
+<br/><br/>
+<sub>Status &nbsp;&rarr;&nbsp; <strong>Hackathon submission</strong></sub>
 </td>
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:24243e&height=3&width=100%"/>
+<br/>
 
-<div align="center">
-
-### 📈 Activity
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vanshikapal14&theme=tokyonight" width="100%" alt="Profile Details" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0:1e1b4b,100:312e81&height=2&width=100%"/>
 
 <br/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshikapal14&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA"/>
-<img height="165" src="https://streak-stats.demolab.com/?user=vanshikapal14&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=vanshikapal14&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1e1b4b,100:2e1065&height=50&text=%20%20%2F%2F%20github%20activity&fontSize=22&fontColor=c4b5fd&fontAlignY=68&fontAlign=26&animation=fadeIn" width="380"/>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:24243e&height=3&width=100%"/>
+<br/>
 
 <div align="center">
 
-### 🐍 Contribution Snake
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vanshikapal14&theme=tokyonight" width="97%" alt="Contribution Timeline"/>
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vanshikapal14&theme=tokyonight" height="170"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vanshikapal14&theme=tokyonight" height="170"/>
+&nbsp;
+<img src="https://streak-stats.demolab.com/?user=vanshikapal14&theme=tokyonight&hide_border=true&background=1a1b2e&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=c4b5fd" height="170"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=vanshikapal14&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7"/>
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0:1e1b4b,100:312e81&height=2&width=100%"/>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1e1b4b,100:2e1065&height=50&text=%20%20%2F%2F%20contribution%20graph&fontSize=22&fontColor=c4b5fd&fontAlignY=68&fontAlign=29&animation=fadeIn" width="400"/>
+</div>
+
+<br/>
+
+<div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vanshikapal14/vanshikapal14/output/github-contribution-grid-snake-dark.svg" />
-  <img alt="snake animation" src="https://raw.githubusercontent.com/vanshikapal14/vanshikapal14/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vanshikapal14/vanshikapal14/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vanshikapal14/vanshikapal14/output/github-contribution-grid-snake.svg"/>
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/vanshikapal14/vanshikapal14/output/github-contribution-grid-snake-dark.svg" width="97%"/>
 </picture>
 
 </div>
+
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
