@@ -90,11 +90,35 @@ target:       Full-time iOS / SDE from 2027
 <br/>
 
 <div align="center">
+
+<!-- Row 1: Core languages & Apple platform -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=swift,xcode,flutter,dart,java,firebase,git,github,figma,vscode&theme=dark"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=swift,xcode,flutter,dart,java,firebase,git,github,figma,vscode&theme=light"/>
-  <img alt="Tech Stack" src="https://skillicons.dev/icons?i=swift,xcode,flutter,dart,java,firebase,git,github,figma,vscode&theme=dark"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=swift,xcode,flutter,dart,java&theme=dark&perline=5"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=swift,xcode,flutter,dart,java&theme=light&perline=5"/>
+  <img alt="Languages" src="https://skillicons.dev/icons?i=swift,xcode,flutter,dart,java&theme=dark&perline=5"/>
 </picture>
+
+<br/>
+
+<!-- Row 2: Tools & Infrastructure -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=firebase,git,github,figma,vscode&theme=dark&perline=5"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=firebase,git,github,figma,vscode&theme=light&perline=5"/>
+  <img alt="Tools" src="https://skillicons.dev/icons?i=firebase,git,github,figma,vscode&theme=dark&perline=5"/>
+</picture>
+
+<br/><br/>
+
+<!-- Apple Frameworks (no icons available on skillicons) -->
+![SwiftUI](https://img.shields.io/badge/SwiftUI-black?style=flat-square&logo=swift&logoColor=F05138)
+![SwiftData](https://img.shields.io/badge/SwiftData-black?style=flat-square&logo=swift&logoColor=F05138)
+![CoreData](https://img.shields.io/badge/CoreData-black?style=flat-square&logo=apple&logoColor=white)
+![HealthKit](https://img.shields.io/badge/HealthKit-black?style=flat-square&logo=apple&logoColor=white)
+![Core ML](https://img.shields.io/badge/Core%20ML-black?style=flat-square&logo=apple&logoColor=white)
+![Core Location](https://img.shields.io/badge/Core%20Location-black?style=flat-square&logo=apple&logoColor=white)
+![Combine](https://img.shields.io/badge/Combine-black?style=flat-square&logo=apple&logoColor=white)
+![CloudKit](https://img.shields.io/badge/CloudKit-black?style=flat-square&logo=icloud&logoColor=white)
+
 </div>
 
 <br/>
