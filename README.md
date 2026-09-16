@@ -81,48 +81,32 @@ target:       Full-time iOS / SDE from 2027
 
 <br/>
 
-<div align="center">
-
-<!-- Row 1: Languages -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=swift,java,py,js,dart&theme=dark&perline=5"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=swift,java,py,js,dart&theme=light&perline=5"/>
-  <img alt="Languages" src="https://skillicons.dev/icons?i=swift,java,py,js,dart&theme=dark&perline=5"/>
-</picture>
-
-<br/><br/>
-
-<!-- Row 2: Frameworks & Databases -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,firebase&theme=dark&perline=5"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,firebase&theme=light&perline=5"/>
-  <img alt="Frameworks" src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,firebase&theme=dark&perline=5"/>
-</picture>
-
-<br/><br/>
-
-<!-- Row 3: Tools -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=xcode,git,github,vscode,figma&theme=dark&perline=5"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=xcode,git,github,vscode,figma&theme=light&perline=5"/>
-  <img alt="Tools" src="https://skillicons.dev/icons?i=xcode,git,github,vscode,figma&theme=dark&perline=5"/>
-</picture>
-
-<br/><br/>
-
-<!-- Apple Frameworks (no icons on skillicons.dev) -->
-![SwiftUI](https://img.shields.io/badge/SwiftUI-F05138?style=flat-square&logo=swift&logoColor=white)
-![UIKit](https://img.shields.io/badge/UIKit-1572B6?style=flat-square&logo=apple&logoColor=white)
-![SwiftData](https://img.shields.io/badge/SwiftData-0D96F6?style=flat-square&logo=swift&logoColor=white)
-![HealthKit](https://img.shields.io/badge/HealthKit-FF2D55?style=flat-square&logo=apple&logoColor=white)
-![Core ML](https://img.shields.io/badge/Core%20ML-FF9500?style=flat-square&logo=apple&logoColor=white)
-![Core Location](https://img.shields.io/badge/Core%20Location-34C759?style=flat-square&logo=apple&logoColor=white)
-![CoreData](https://img.shields.io/badge/CoreData-636366?style=flat-square&logo=apple&logoColor=white)
-![CloudKit](https://img.shields.io/badge/CloudKit-147EFB?style=flat-square&logo=icloud&logoColor=white)
-![Combine](https://img.shields.io/badge/Combine-5856D6?style=flat-square&logo=apple&logoColor=white)
-![Swift Charts](https://img.shields.io/badge/Swift%20Charts-F05138?style=flat-square&logo=swift&logoColor=white)
-
-</div>
+<table width="100%">
+<tr>
+<td colspan="2"><strong>TECHNICAL SKILLS</strong></td>
+</tr>
+<tr><td colspan="2"><hr/></td></tr>
+<tr>
+<td width="30%" valign="top"><strong>Languages</strong></td>
+<td width="70%">Java &nbsp;&nbsp; Python &nbsp;&nbsp; JavaScript &nbsp;&nbsp; Swift</td>
+</tr>
+<tr>
+<td valign="top"><strong>iOS Development</strong></td>
+<td>SwiftUI &nbsp;&nbsp; UIKit &nbsp;&nbsp; Swift Charts &nbsp;&nbsp; SwiftData &nbsp;&nbsp; HealthKit &nbsp;&nbsp; Core ML &nbsp;&nbsp; CoreData &nbsp;&nbsp; CloudKit &nbsp;&nbsp; Combine &nbsp;&nbsp; Core Location</td>
+</tr>
+<tr>
+<td valign="top"><strong>Full Stack</strong></td>
+<td>React &nbsp;&nbsp; Node.js &nbsp;&nbsp; Express.js</td>
+</tr>
+<tr>
+<td valign="top"><strong>Databases</strong></td>
+<td>MongoDB &nbsp;&nbsp; Firebase &nbsp;&nbsp; CoreData &nbsp;&nbsp; CloudKit</td>
+</tr>
+<tr>
+<td valign="top"><strong>Tools</strong></td>
+<td>Xcode &nbsp;&nbsp; Git &nbsp;&nbsp; GitHub &nbsp;&nbsp; VS Code &nbsp;&nbsp; Figma</td>
+</tr>
+</table>
 
 <br/>
 
