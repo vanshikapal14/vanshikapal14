@@ -91,7 +91,8 @@ Civic issue reporting app with verified resolution tracking — hackathon build 
 
 ### 📈 Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vanshikapal14&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=A78BFA&point=ffffff" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vanshikapal14&theme=tokyonight" width="100%" alt="Profile Details" />
+
 
 <br/>
 
